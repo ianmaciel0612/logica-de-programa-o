@@ -1,14 +1,25 @@
- # PRIMEIRA AULA DE LOGICA DE PROGRAMAÇÃO
+# SEGUNDA AULA DE LOGICA DE PROGRAMAÇÃO:
 
-Nesta aula, foi apresentado o conceito de algoritmo e como ele é utilizado no dia a dia.
+ Esse segundo módulo foi um pouco mais extenso que o anterior. Ele mostrou como o algoritmo é usado na prática e começou a introdução da ferramenta que utilizaremos para aplicar o conteúdo da última aula sobre algoritmos (Visualg). Aprendi alguns comandos que serão usados dentro dessa ferramenta.  
 
-Já tive contato com esse tema durante o curso de Desenvolvimento de Sistemas, mas foi interessante fortalecer o conceito. A aula foi bem tranquila e muito didática, o que facilita o entendimento até mesmo para iniciantes. Recomendo fortemente!
+Sobre a aula: ela explica de forma clara como o Visualg funciona, abordando desde a interface até os primeiros comandos básicos, como "escreva" e sobre as variáveis e como deve ser usado. Isso facilita o entendimento inicial para quem está começando a programar. O vídeo tem uma linguagem bem informal e serve como uma ótima introdução prática para algoritmos.
 
-Para quem tiver interesse, segue o link da aula no YouTube: [Aula 1 - Curso em Vídeo de Lógica de Programação](https://www.youtube.com/watch?v=8mei6uVttho&t=616s)
+link:[Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara](https://www.youtube.com/watch?v=M2Af7gkbbro)
 
-Complemento sobre a aula 
-O professor utiliza uma abordagem prática e simples para explicar algoritmos, comparando-os com situações cotidianas, como sair de casa e atravessar a rua ou passos para realizar uma tarefa. Isso torna o aprendizado mais próximo da realidade do aluno, facilitando a assimilação dos conceitos básicos de lógica de programação. Uma ótima escolha para quem está iniciando na área de tecnologia!
+_
 
-Algoritmo: 
-Uma série de comandos usados para solucionar um problema. 
+# Primeiro codigo
 
+algoritmo "semnome"
+<br/>
+var
+  <br/>
+     msg:caractere
+<br/>
+inicio
+     <br/>
+      msg<-"ola, mundo"
+      <br/>
+      escreval(msg)
+    <br/>
+fimalgoritmo
